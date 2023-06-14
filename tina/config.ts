@@ -13,6 +13,7 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "./",
+    basePath: "dowenb.github.io"
   },
   media: {
     tina: {
